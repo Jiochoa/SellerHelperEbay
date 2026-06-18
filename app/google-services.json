@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927176570508",
+    "project_id": "com-example-sellerhelper-3114f",
+    "storage_bucket": "com-example-sellerhelper-3114f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927176570508:android:a8e2062c2f1aa028d8eda9",
+        "android_client_info": {
+          "package_name": "com.example.sellerhelperebay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqRYNtIFkC5F9ohzIZkqD9xAjuCPuVsj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
